@@ -1,0 +1,15 @@
+
+.kutu{
+    height:350px;
+    overflow: scroll;
+  }
+  .unf{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    z-index: 5;
+    height:350px;
+    overflow: scroll;
+  }
