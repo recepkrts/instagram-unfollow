@@ -1,4 +1,9 @@
-
+*{
+  margin:0;
+  padding:0;
+  border:0;
+  box-sizing: border-box;
+}
 .kutu{
     height:350px;
     overflow: scroll;
